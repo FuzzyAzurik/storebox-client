@@ -1,0 +1,27 @@
+[ {
+  "userId" : "user1234",
+  "cardId" : "cardId1",
+  "name" : "Dankort/VISA Dankort",
+  "truncatedCardNumber" : "457193XXXXXX1234",
+  "cardTypeId" : 1,
+  "expiry" : {
+    "month" : 8,
+    "year" : 23
+  },
+  "multipleCardNumbers" : false,
+  "externalCardId" : "card1",
+  "origin" : "storebox"
+}, {
+  "userId" : "user1234",
+  "cardId" : "cardId2",
+  "name" : "Dankort/VISA Dankort",
+  "truncatedCardNumber" : "457193XXXXXX1235",
+  "cardTypeId" : 1,
+  "expiry" : {
+    "month" : 8,
+    "year" : 23
+  },
+  "multipleCardNumbers" : false,
+  "externalCardId" : "card2",
+  "origin" : "storebox"
+} ]
